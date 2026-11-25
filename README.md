@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Heverson Lima 👋
 
-### Graduado Sistemas de Informação na UFPA - Cametá 👨‍🎓
+### Graduado em Sistemas de Informação na UFPA - Cametá 👨‍🎓
 <div style: display="inline_block">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heversonlima&show_icons=true&theme=radical&locale=pt-br)
